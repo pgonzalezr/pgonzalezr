@@ -1,6 +1,6 @@
 Greetings!!!!!!
 
-I'm Pedro Gonzalez, a SW Test engineer with focus on test automation & CI/CD practices from Mexico.
+I'm Pedro Gonzalez, a SW Test engineer with focus on test automation & CI/CD practices from Mexico(Open for interesting opportunities abroad if you have one ;)).
 
 Most of my work is on private repos, but you can get an idea of my past work from my [LinkedIn profile](https://www.linkedin.com/in/pgonzalezr/).
 
